@@ -5,4 +5,5 @@ provides PWM output for servos plus ESC brushed motor outputs via an external MO
 
 Initially developed to RC enable a small toy 'plane, with a small motor on each wing and minature servos for ailerons and elevator. Yaw control is achieved by varying the relative  motor speeds, so no need for a rudder.
 
+Code written using the MPLabX IDE from Microchip, using the ATMEL ATMEGA328P microcontroller (I used tiny Arduino mini clone boards from china). All project files are included here, so just clone the entire repo and import into MPLabX
 
